@@ -10,5 +10,5 @@
 
 ## 输出
 output/output.m3u
-# openWD
+
 自定义看电视，解决家里人看电视的问题
